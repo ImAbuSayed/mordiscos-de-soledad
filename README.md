@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-soledad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Mordiscos de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-soledad/) |
+| **Get License** | [Obtain a Music License for Mordiscos de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-soledad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `02de80d016837e82a454dad4ccdf2a1832663a928f1638de452706e9013ce84e` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

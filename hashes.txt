@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordiscos de soledad
+
+This log tracks the cryptographic history and versioning for the song **Mordiscos de soledad** (mordiscos-de-soledad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:17:11.188604 | `v1` | `02de80d016837e82a454dad4ccdf2a1832663a928f1638de452706e9013ce84e` | `3a2aa9d1473bddec78361c610a2b8fb828fd1ca48a43da850b7eb6410622a01b` | `2026-06-18_mordiscos-de-soledad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
