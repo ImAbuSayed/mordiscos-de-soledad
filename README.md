@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-soledad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Mordiscos de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-soledad/) |
+| **Get License** | [Secure Licensing Rights for Mordiscos de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-soledad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche llama, vente conmigo
+> Siento la química, un fuego prohibido
+> Muerdes mi boca y olvido el castigo
+> En la oscuridad yo soy tu abrigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
